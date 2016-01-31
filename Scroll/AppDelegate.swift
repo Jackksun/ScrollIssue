@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  Scroll
-//
-//  Created by Theo Sidebotham on 31/01/2016.
-//  Copyright © 2016 charles. All rights reserved.
-//
+
 
 import UIKit
 
